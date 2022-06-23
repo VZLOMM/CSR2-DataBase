@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
+# CSR2-DataBase
+## Our Vision<br>
+This project collects all cars in CSR2 in all available rare import specs and makes them available to everyone for free.<br>
 
-You can use the [editor on GitHub](https://github.com/Nitro4CSR/CSR2-DataBase/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Important Info
+**Claims**<br>
+The project is not based or related to the CSR2-Racing-Collection by wear87.<br>
+The Project is currently being build and is under high development.<br>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+**Community Discord**<br>
+If you found a bug, have ideas on how to improve the project, want to get notified about updates or if you want to help us build the project join our Discord:<br>
+[![](https://cdn.discordapp.com/attachments/904024380370223114/904025176671420466/dc_logo_256x.png)](https://discord.gg/GRepTF4Jv5)<br>
 
-### Markdown
+**Find Files quicker**<br>
+Due to the amount of files this project has it can be quite hard to find the file you need. The solution to this is using the<br> [File-Finder](https://github.com/Nitro4CSR/CSR2-DataBase/find/main).<br>
+ 
+**The project will cover the following:**<br>
+1. Cars (stock/maxed) ✔️<br>
+2. Maxing Files ✔️<br>
+3. Fusions ✔️<br>
+4. Stage6's ✔️<br>
+5. Support Gifts ✔️<br>
+6. Visual Codes ❌<br>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**Credits/Special Thanks:**<br>
+1. Ysterperd: Script to extract and rename car files from raw NSB files
+2. 【ƬHᏋ ᏣᏒᏫᏊ】: All Seasons [Spreadsheet](https://docs.google.com/spreadsheets/d/1_QvcjyGz9PW48iybbU2AxWcoW6VHJMIj9vohwlYQKBg)<br>
+3. TheRedBandit & LCN: MaxOut Tool︱Check out their [Website](https://nsb.lcn-innovation.dk/)
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Nitro4CSR/CSR2-DataBase/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Latest Update Info
+**Update V.4.0.0**
+![](https://cdn.discordapp.com/attachments/904024380370223114/989233991771099166/4.0.0.png?size=4096)
+<br>
