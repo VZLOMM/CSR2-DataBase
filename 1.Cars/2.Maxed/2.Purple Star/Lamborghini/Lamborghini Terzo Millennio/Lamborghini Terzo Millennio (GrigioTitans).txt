@@ -1,6 +1,6 @@
 {
       "unid": 3104,
-      "crdb": "Lamborghini_TerzoMillennio_2017",
+      "crdb": "Czinger_21C_2021",
       "awar": false,
       "grsp": [
         0.865
@@ -30,9 +30,9 @@
       "orlzsid": 9,
       "apln": "",
       "apcn": [
-        "Lamborghini_TerzoMillennio_2017_Wheel1A_3D"
+        "Czinger_21C_2021"
       ],
-      "opcn": "Lamborghini_TerzoMillennio_2017_Wheel1A_3D",
+      "opcn": "Czinger_21C_2021",
       "bqmt": 0.0,
       "bhmt": 0.0,
       "ditr": 0.0,
